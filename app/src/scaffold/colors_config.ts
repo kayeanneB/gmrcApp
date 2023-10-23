@@ -1,7 +1,8 @@
 export const defaults = {
     black: "#000000",
     white: "#FFFFFF",
-    gray: "#8C8C8C"
+    gray: "#8C8C8C",
+    gray1: "#5F5F5F"
 }
 
 export const primaryColors = {
