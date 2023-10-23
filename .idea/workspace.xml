@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="454b44eb-053a-4090-a393-7fa432538c08" name="Changes" comment="initialize files">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.bundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__tests__/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/debug/java/com/app/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/java/com/app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/java/com/app/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/src/release/java/com/app/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/.xcode.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app.xcodeproj/xcshareddata/xcschemes/app.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/AppDelegate.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/app/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/appTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ios/appTests/appTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XAMF5i1CfheAslVuFs0GwuHW1r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/steffibonifacio/gmrcApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.externalResources",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454b44eb-053a-4090-a393-7fa432538c08" name="Changes" comment="" />
+      <created>1698067323223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698067323223</updated>
+      <workItem from="1698067325307" duration="913000" />
+      <workItem from="1698068247172" duration="659000" />
+      <workItem from="1698070472667" duration="2214000" />
+    </task>
+    <task id="LOCAL-00001" summary="reinitialized app">
+      <created>1698067547026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698067547026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="reinitialized app" />
+    <MESSAGE value="initialize files" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize files" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
